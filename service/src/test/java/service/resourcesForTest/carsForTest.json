@@ -1,0 +1,139 @@
+{
+  "cars": [
+    {
+      "model": "FIAT",
+      "basicPrice": 20000,
+      "mileage": 10,
+      "engine": {
+        "typeOfEngine": "GASOLINE",
+        "power": 1.0
+      },
+      "carBody": {
+        "carBodyType": "SEDAN",
+        "carBodyColor": "BLACK",
+        "components": [
+          "ABS",
+          "AIR CONDITIONING",
+          "ELECTORNIC MIRRORS"
+        ]
+      },
+      "wheel": {
+        "model": "RACE",
+        "size": 15,
+        "typeOfWheel": "SUMMER"
+      }
+    },
+    {
+      "model": "MAZDA",
+      "basicPrice": 140000,
+      "mileage": 20,
+      "engine": {
+        "typeOfEngine": "GASOLINE",
+        "power": 2.0
+      },
+      "carBody": {
+        "carBodyType": "HATCHBACK",
+        "carBodyColor": "RED",
+        "components": [
+          "PIONEER SOUND SYSTEM",
+          "AIR CONDITIONING"
+        ]
+      },
+      "wheel": {
+        "model": "DEBICA COOL",
+        "size": 13,
+        "typeOfWheel": "SUMMER"
+      }
+    },
+    {
+      "model": "AUDI",
+      "basicPrice": 140400,
+      "mileage": 220,
+      "engine": {
+        "typeOfEngine": "DIESEL",
+        "power": 1.6
+      },
+      "carBody": {
+        "carBodyType": "COMBI",
+        "carBodyColor": "BLACK",
+        "components": [
+          "ELECTRONIC MIRRORS"
+        ]
+      },
+      "wheel": {
+        "model": "DRIFT",
+        "size": 215,
+        "typeOfWheel": "WINTER"
+      }
+    },
+    {
+      "model": "HONDA",
+      "basicPrice": 240000,
+      "mileage": 20,
+      "engine": {
+        "typeOfEngine": "LPG",
+        "power": 3.0
+      },
+      "carBody": {
+        "carBodyType": "COMBI",
+        "carBodyColor": "WHITE",
+        "components": [
+          "ABS",
+          "SUNROOF",
+          "AIR CONDITIONING"
+        ]
+      },
+      "wheel": {
+        "model": "DEBICA",
+        "size": 21,
+        "typeOfWheel": "SUMMER"
+      }
+    },
+    {
+      "model": "BMW",
+      "basicPrice": 444000,
+      "mileage": 60,
+      "engine": {
+        "typeOfEngine": "DIESEL",
+        "power": 3.2
+      },
+      "carBody": {
+        "carBodyType": "COMBI",
+        "carBodyColor": "BLACK",
+        "components": [
+          "BLUETOOTH",
+          "ALLOY WHEELS"
+        ]
+      },
+      "wheel": {
+        "model": "CONTINENTAL",
+        "size": 23,
+        "typeOfWheel": "WINTER"
+      }
+    },
+    {
+      "model": "SKODA",
+      "basicPrice": 50000,
+      "mileage": 120,
+      "engine": {
+        "typeOfEngine": "GASOLINE",
+        "power": 2.0
+      },
+      "carBody": {
+        "carBodyType": "HATCHBACK",
+        "carBodyColor": "GREEN",
+        "components": [
+          "ABS",
+          "AIR CONDITIONING",
+          "ELECTORNIC MIRRORS",
+          "BLUETOOTH"
+        ]
+      },
+      "wheel": {
+        "model": "RACE",
+        "size": 19,
+        "typeOfWheel": "SUMMER"
+      }
+    }
+  ]
+}
