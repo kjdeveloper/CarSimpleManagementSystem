@@ -15,7 +15,7 @@ How to start:
 •	Run git clone in terminal to download project
 •	Go to folder with project
 •	Run mvn clean package
-•	Go to CarEquipmentStatistics/target folder
+•	Go to mainmenu/target folder
 •	Run ‘java – jar mainmenu-1.0-SNAPSHOT.jar’
 
 Author:
