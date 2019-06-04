@@ -1,11 +1,11 @@
-<h2>Car simple management system</h2>
+<h3>Car simple management system</h3>
 
 The projects allows you to manage data on the cars that you download from the json file.
 Was made in order to gain practice in technologies learned during the course KM-PROGRAMS.
 The task has been divided into a module in accordance with the modular programming standards.
 The program was written in Java language version 11. To make everything work properly, You need to import the project from my profile on github.
 
-<h2>Used technologies</h2>:
+<h3>Used technologies:</h3>
 <p>•	Java12
 <p>•	Maven
 <p>•	JUnit5
