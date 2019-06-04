@@ -16,7 +16,7 @@ How to start:
 •	Go to terminal on the mainmenu level 
 •	Run 'mvn clean compile assembly:single' 
 •   Change path for the file in mainmenu/mainmenu/App 
-•   Change path for the test files in service/src/test/service/resourcesForTest
+•   Change path for the test files in service/src/test/service/CarServiceTest
 •	Go to mainmenu/target folder and run 'mainmenu-1.0-SNAPSHOT-jar-with-dependencies.jar' 
                             or 
 •	Open the terminal at the target folder level and run 'java -cp mainmenu-1.0-SNAPSHOT-jar-with-dependencies.jar mainmenu.App'
